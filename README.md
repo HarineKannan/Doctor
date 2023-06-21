@@ -18,4 +18,7 @@ To run this Application in Your System,
 
 (iv) After that run the Folder by "npm start"
 
+live project:
+https://expo.dev/@hari_the24/NewApp?serviceType=classic&distribution=expo-go
+
 
